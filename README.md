@@ -84,7 +84,7 @@
 2. 打开本仓库的脚本文件原始地址并安装：
 
    ```
-   https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/baidu-group-exporter.user.js
+   https://raw.githubusercontent.com/ITBBOOK/baidu-group-exporter/main/baidu-group-exporter.user.js
    ```
 
    > 在 Tampermonkey 里：右上角「+」新建脚本 → 粘贴本仓库 `baidu-group-exporter.user.js`

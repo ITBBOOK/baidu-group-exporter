@@ -1,7 +1,7 @@
 # 论坛发布文案（可直接复制粘贴）
 
 > 下面是一篇可以直接发到贴吧 / V2EX / 恩山 / 各网盘交流群 / GitHub Discussions 的文案。
-> 把 `<仓库地址>` 换成你的 GitHub 链接即可。括号里的〔〕是给你自己的备注，发帖前删掉。
+> 仓库已发布在 GitHub，链接见下；可直接安装的脚本地址也已给出。括号里的〔〕是给你自己的备注，发帖前删掉。
 
 ---
 
@@ -32,7 +32,7 @@
 
 1. 浏览器装 Tampermonkey（或 Violentmonkey）。
 2. 打开脚本地址安装：
-   `<仓库地址>/baidu-group-exporter.user.js`
+   `https://raw.githubusercontent.com/ITBBOOK/baidu-group-exporter/main/baidu-group-exporter.user.js`
    （Tampermonkey 右上角「+」新建脚本，把文件全文粘进去保存也行。）
 3. 打开并登录 pan.baidu.com，**先在左侧点开一次「通讯录 → 群组 → 群文件」**（让脚本嗅探到请求参数，只要点过一次就全自动）。
 
@@ -55,7 +55,7 @@
 
 项目完全开源，MIT 协议，欢迎提建议 / 一起改。有坑的话评论区告诉我。
 
-仓库地址：`<仓库地址>`
+仓库地址：`https://github.com/ITBBOOK/baidu-group-exporter`
 
 ---
 
