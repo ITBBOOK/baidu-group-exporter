@@ -1,0 +1,26 @@
+# ===== 依赖 =====
+node_modules/
+
+# ===== 自动备份（开发期生成，不进仓库） =====
+backup-*.user.js
+*.log
+
+# ===== 开发/调试脚本（使用者不需要） =====
+probe-*.js
+grouptest.js
+selftest.js
+structuretest.js
+verify-*.js
+verifytest.js
+test-*.mjs
+cdp-proxy.log
+deploy-to-tampermonkey.js
+deploy-cdp.mjs
+gen-manifest.mjs
+
+# ===== 编辑器/系统 =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.png
